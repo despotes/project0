@@ -23,6 +23,10 @@ footer {
   text-align: center;
   font-size: 1.2em;
   text-shadow: 2px 2px black; }
+  footer a {
+    color: white; }
+  footer a:hover {
+    color: #162955; }
 
 .myfoto {
   position: relative;

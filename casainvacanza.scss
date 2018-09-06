@@ -34,6 +34,12 @@ footer {
   text-align: center;
   font-size: 1.2em;
   text-shadow: 2px 2px black;
+  a {
+    color: white;
+  }
+  a:hover {
+    color: #162955;
+  }
 }
 
 .myfoto {
